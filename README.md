@@ -1,7 +1,7 @@
 # I'm Kimura 👾
 
 <p  style="display: inline; text-align:center;">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=imkimura.imkimur">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=imkimura.imkimura">
 <img src="https://img.shields.io/github/followers/imkimura?label=Follow&style=social">
 </p>
 
