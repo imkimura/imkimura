@@ -17,8 +17,7 @@ Well, what say about me? I'm fascinated by the computing area and I've been in t
 - 🎓  Currently graduating in Cumputer Science
 - 🎓 Systems Development Technician **(2017)**
 
-### My repos
-
+<br>
 <p align="center">
 <embed style="margin-top: -80px" width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?imkimura" frameborder="0">
 <img width="400" alt="Julia's github stats" src="https://github-readme-stats.vercel.app/api?username=imkimura&count_private=true&show_icons=true&theme=tokyonight" />
