@@ -13,7 +13,7 @@ Well, what say about me? I'm fascinated by the computing area and I've been in t
 - 🔮 Jedi guided by the force
 - 🌇  Live in a far away city in the middle of Oest
 - 🎯 I'm currently learning ReactJS and Node
-- 💻 Work as as a Systems Developer at UNIVEM
+- 💻 Work as as a Systems Developer at Tray
 - 🎓  Currently graduating in Cumputer Science
 - 🎓 Systems Development Technician **(2017)**
 
@@ -26,7 +26,7 @@ Well, what say about me? I'm fascinated by the computing area and I've been in t
 
 
 ### Social media
- [<img width="50" src="https://camo.githubusercontent.com/9ac4a1f7f5ea0f573451b5ddc06e29c8aa113a85/68747470733a2f2f692e696d6775722e636f6d2f6948326a6468562e706e67" />](https://www.instagram.com/staticmeth0d/) [<img width="45" src= "https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png">](https://www.linkedin.com/in/julia-kimura-85a45716a/)
+ [<img width="50" src="https://camo.githubusercontent.com/9ac4a1f7f5ea0f573451b5ddc06e29c8aa113a85/68747470733a2f2f692e696d6775722e636f6d2f6948326a6468562e706e67" />](https://www.instagram.com/imkimura_/) [<img width="45" src= "https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png">](https://www.linkedin.com/in/julia-kimura-85a45716a/)
 
 
- @imkimura,  Made in 🇧🇷, 2020
+ @imkimura,  Made in 🇧🇷, 1999
