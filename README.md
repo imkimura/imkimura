@@ -6,7 +6,7 @@
 </p>
 
 <p>
-Hello, my name is Julia Kimura and I have 21 years old. <br>
+Hello, my name is Julia Kimura and I have 22 years old. <br>
 Well, what say about me? I'm fascinated by the computing area and I've been in this area for 4 years of my life, I know a little bit of everything but Im always searching for something new to learn.
 </p>
 
