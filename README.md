@@ -18,7 +18,7 @@ My journey in computing spans over 4 years, starting with a Systems Development 
 
 
 ### Social media
- [<img width="50" src="[https://camo.githubusercontent.com/9ac4a1f7f5ea0f573451b5ddc06e29c8aa113a85/68747470733a2f2f692e696d6775722e636f6d2f6948326a6468562e706e67](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)" />](https://www.instagram.com/imkimura_/) [<img width="45" src= "https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png">](https://www.linkedin.com/in/julia-kimura-85a45716a/)
+ [<img width="50" src="[https://camo.githubusercontent.com/9ac4a1f7f5ea0f573451b5ddc06e29c8aa113a85/68747470733a2f2f692e696d6775722e636f6d2f6948326a6468562e706e67](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />](https://www.instagram.com/imkimura_/) [<img width="45" src= "https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png">](https://www.linkedin.com/in/julia-kimura-85a45716a/)
 
 
  @imkimura,  Made in 🇧🇷, 1999
