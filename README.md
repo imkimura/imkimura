@@ -6,16 +6,15 @@
 </p>
 
 <p>
-Hello, my name is Julia Kimura and I have 22 years old. <br>
-Well, what say about me? I'm fascinated by the computing area and I've been in this area for 4 years of my life, I know a little bit of everything but Im always searching for something new to learn.
+Hello, I'm Julia Kimura! I'm a passionate Systems Developer working at Tray, where I focus on building and maintaining robust systems.
+
+My journey in computing spans over 4 years, starting with a Systems Development Technician degree (2017) and culminating in my Computer Science degree (2021). I love learning and have a broad interest in technology.
 </p>
 
-- 🔮 Jedi guided by the force
-- 🌇  Live in a far away city in the middle of Oest
-- 🎯 I'm currently learning ReactJS and Node
-- 💻 Work as as a Systems Developer at Tray
-- 🎓  Currently graduating in Cumputer Science
-- 🎓 Systems Development Technician **(2017)**
+* 💻 **Role:** Systems Developer @ Tray
+* 🎓 **Education:** Computer Science Graduate (2021)
+* 🎯 **Currently Learning:** Deepening my expertise in **ReactJS** and **Node.js**.
+* 📍 **Location:** Midwest (Oest) - *A Jedi guided by the Force, seeking new challenges!*
 
 <br>
 <p align="center">
